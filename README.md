@@ -1,7 +1,7 @@
-#Random Color Picker
+# Random Color Picker
 A simple JavaScript project that generates random colors and displays them as bars. Each bar shows its background color.
 
-##Features
+## Features
 
 🎲 Generate random colors on button click
 
@@ -9,7 +9,7 @@ A simple JavaScript project that generates random colors and displays them as ba
 
 ⚡ Lightweight, beginner-friendly project
 
-##Tech Stack
+## Tech Stack
 
 HTML
 
